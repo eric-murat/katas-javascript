@@ -10,5 +10,6 @@
   * [kata-js-regex-replace-vowels.md](kata-js-regex-replace-vowels.md) `[String] replace`
   * [kata-js-jaden-casing-strings.md](kata-js-jaden-casing-strings.md) `[String] replace`, `[String] split`, `[Array] join`, `[Array] map`
   * [kata-js-vowel-count.md](kata-js-vowel-count.md) `[String] match`, `null`
+  * [kata-js-break-camelcase.md](kata-js-break-camelcase.md) `[String] replace`
   
   
