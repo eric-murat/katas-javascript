@@ -6,4 +6,5 @@
   * [kata-js-friend-or-foe.md](kata-js-friend-or-foe.md) `[Array] filter`
 * REGEX
   * [kata-js-regex-replace-vowels.md](kata-js-regex-replace-vowels.md) `[String] replace`
+  * [kata-js-jaden-casing-strings.md](kata-js-jaden-casing-strings.md)
   
