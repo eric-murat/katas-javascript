@@ -10,7 +10,7 @@ Example
 "identifier"   =>  "identifier"
 ""             =>  ""
 ```
-FUNDAMENTALSSTRINGSFORMATTINGALGORITHMS
+✒️FUNDAMENTALS STRINGS FORMATTING ALGORITHMS
 
 ## Mon code :
 ```js
