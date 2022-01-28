@@ -14,7 +14,7 @@ Examples (Input --> Output)
 ✒️FUNDAMENTALS, REGULAR EXPRESSIONS
 
 # Mon code
-```
+```js
 function validatePIN (pin) {
   // Expression régulière 4 ou 6 digits
   return /^(\d{4}|\d{6})$/.test(pin);
