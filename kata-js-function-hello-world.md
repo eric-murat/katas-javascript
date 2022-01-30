@@ -1,5 +1,4 @@
-# kata-js-find_unique
-Kata JS : function hello world : https://www.codewars.com/kata/585d7d5adb20cf33cb000235
+Kata JS : function hello world : https://www.codewars.com/kata/523b4ff7adca849afe000035
 
 ## Instructions
 Make a simple function called greet that returns the most-famous "hello world!".  
@@ -15,8 +14,8 @@ function greet() {
 
 ## Solution de la communauté
 ```js
-function findUniq(arr) {
-  return arr.find(n => arr.indexOf(n) === arr.lastIndexOf(n));
+function greet() {
+  return String.fromCharCode(104,101,108,108,111,32,119,111,114,108,100,33);
 }
 ```
 
