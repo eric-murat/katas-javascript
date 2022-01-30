@@ -18,5 +18,8 @@
   * [kata-js-find-next-perfect-square.md](kata-js-find-next-perfect-square.md) `sqrt`, `exp`, `pow`, `isInteger`
 * FUNCTION
   * [kata-js-function-hello-world.md](kata-js-function-hello-world.md) `function`
+* STRING
+  * [kata-js-binary-addition.md](kata-js-binary-addition.md) `toString(2)`
   
+
   
