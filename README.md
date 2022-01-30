@@ -16,5 +16,7 @@
   * [kata-js-regex-validate-PIN-code.md](kata-js-regex-validate-PIN-code.md) `test`
 * MATH
   * [kata-js-find-next-perfect-square.md](kata-js-find-next-perfect-square.md) `sqrt`, `exp`, `pow`, `isInteger`
+* FUNCTION
+  * [kata-js-function-hello-world.md](kata-js-function-hello-world.md) `function`
   
   
