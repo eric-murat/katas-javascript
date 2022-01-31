@@ -8,6 +8,7 @@
   * [kata-js-square-every-digit.md](kata-js-square-every-digit.md) `Number`, `[Array] forEach`, `[String] split`
   * [kata-js-isisogram.md](kata-js-isisogram.md) `=>`, `[Array] every`, `[String] split`
   * [kata-js-uniqueinorder.md](kata-js-uniqueinorder.md) `[Array] filter`, `[...iter]`
+  * [kata-js-square-sum.md](kata-js-square-sum.md) `[Array] map`, `[Array] reduce`
 * REGEX
   * [kata-js-regex-replace-vowels.md](kata-js-regex-replace-vowels.md) `[String] replace`
   * [kata-js-jaden-casing-strings.md](kata-js-jaden-casing-strings.md) `[String] replace`, `[String] split`, `[Array] join`, `[Array] map`
