@@ -5,17 +5,13 @@ Kata JS : Equal Sides Of An Array
 ## Mon code
 ```js
 function findEvenIndex(arr) {
-  var sumA = 0;
-  var sumB = 0;
-  var indexOk = -1;
-  for (var i=0; i < Math.floor(arr.length / 2); i++) {
-    sumA = sumA + arr[i];
-    sumB = sumB + arr[arr.length - i - 1];
-    if (sumA == sumB) {
-      indexOk = i+1;
+  if (arr.length == 0) return -1;
+  for (var i=0; i < arr.length; i++) {
+    if (arr.slice(0,i).reduce((a,b)=>a+b,0) == arr.slice(i+1).reduce((a,b)=>a+b,0)) {
+      return i;
     }
   }
-  return indexOk;
+  return -1;
 }
 ```
 
@@ -25,5 +21,5 @@ function findEvenIndex(arr) {
 ```
 
 ## Docs
-- for : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
-- Math floor : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
+- Array slice : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+- Array reduce : https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
