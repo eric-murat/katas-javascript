@@ -28,3 +28,4 @@ function basicOp(operation, value1, value2)
 
 ## Docs
 - switch : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
+- eval : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval
