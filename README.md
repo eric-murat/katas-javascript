@@ -24,6 +24,7 @@
   * [kata-js-function-hello-world.md](kata-js-function-hello-world.md) `function`
 * STRING
   * [kata-js-binary-addition.md](kata-js-binary-addition.md) `toString(2)`
+  * [kata-js-who-likes-it.md](kata-js-who-likes-it.md) `eval`
   
 
   
