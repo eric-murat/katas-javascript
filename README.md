@@ -11,6 +11,7 @@
   * [kata-js-square-sum.md](kata-js-square-sum.md) `[Array] map`, `[Array] reduce`
   * [kata-js-equal-sides-of-an-array.md](kata-js-equal-sides-of-an-array.md) `[Array] slice`, `[Array] reduce`
   * [kata-js-count-positives-sum-negatives.md](kata-js-count-positives-sum-negatives.md) `[Array] filter`, `[Array] reduce`, `[Array] concat`
+  * [kata-js-directions-reduction.md](kata-js-directions-reduction.md) `[Array] filter`, `[Array] reduce`, `[Array] concat`
 * REGEX
   * [kata-js-regex-replace-vowels.md](kata-js-regex-replace-vowels.md) `[String] replace`
   * [kata-js-jaden-casing-strings.md](kata-js-jaden-casing-strings.md) `[String] replace`, `[String] split`, `[Array] join`, `[Array] map`
