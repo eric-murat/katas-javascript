@@ -44,9 +44,20 @@ if you want to translate, please ask before translating.
 ## Mon code
 ```js
 function dirReduc(arr){
-    const opposites = {'NORTH': 'SOUTH', 'EAST': 'WEST', 'SOUTH': 'NORTH', 'WEST': 'EAST'};
-  
-    return arr.reduce((prev, cur) => (opposites[prev.slice(-1)] === cur ? prev.pop() : prev.push(cur), prev), [])
+  const opposites = {"NORTH":"SOUTH", "SOUTH":"NORTH", "EAST":"WEST", "WEST":"EAST"};
+  // Version "function(..)"
+  // Note : sans la valeur initiale [], le "prev.push" remonte une exception
+  return arr.reduce(function (prev, cur) {
+    if (opposites[prev.slice(-1)] === cur) {
+      prev.pop();
+    } else {
+      prev.push(cur);
+    }
+    return prev;
+  }, []);
+
+  //REFERENCE version "=>"
+  //return arr.reduce((prev, cur) => (opposites[prev.slice(-1)] === cur ? prev.pop() : prev.push(cur), prev), [])
 }
 ```
 
