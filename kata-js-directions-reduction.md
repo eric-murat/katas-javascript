@@ -82,3 +82,4 @@ function dirReduc(plan) {
 - Arra pop : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop
 - Array slice : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
 - Soluce web : https://losseff.xyz/katas/021-directions-reduction/javascript/
+- Arrow function : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
