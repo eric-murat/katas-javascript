@@ -4,6 +4,9 @@ Kata JS : String ends with
 
 ## Mon code
 ```js
+function solution(str, ending){
+  return ending.length <= 0 ? true : ending == str.slice(-1 * ending.length);
+}
 ```
 
 ## Code de la communauté
@@ -11,4 +14,4 @@ Kata JS : String ends with
 ```
 
 ## Docs
-- Array slice
+- Array slice : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
