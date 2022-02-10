@@ -26,3 +26,4 @@ function solution(str, ending){
 
 ## Docs
 - Array slice : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+- String endsWith : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/endsWith
