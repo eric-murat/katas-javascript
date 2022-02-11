@@ -24,6 +24,7 @@
   * [kata-js-basic-mathematical-operations.md](kata-js-basic-mathematical-operations.md) `switch`, `eval`
 * FUNCTION
   * [kata-js-function-hello-world.md](kata-js-function-hello-world.md) `function`
+  * [kata-js-fibonacci.md](kata-js-fibonacci.md) `for`
 * STRING
   * [kata-js-binary-addition.md](kata-js-binary-addition.md) `toString(2)`
   * [kata-js-who-likes-it.md](kata-js-who-likes-it.md) `eval`
