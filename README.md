@@ -30,6 +30,8 @@
 * STRING
   * [kata-js-binary-addition.md](kata-js-binary-addition.md) `toString(2)`
   * [kata-js-who-likes-it.md](kata-js-who-likes-it.md) `eval`
+* NUMBER
+  * [kata-js-sum-of-the-nth-terms.md](kata-js-sum-of-the-nth-terms.md) `[Number] toFixed`
   
 
   
