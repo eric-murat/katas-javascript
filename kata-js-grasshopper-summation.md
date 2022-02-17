@@ -1,4 +1,4 @@
-Kata JS : GarssHopper Summation 
+Kata JS : GarssHopper Summation https://www.codewars.com/kata/55d24f55d7dd296eb9000030
 
 ## Instructions
 **Summation**
@@ -26,6 +26,9 @@ var summation = function (num) {
 
 ## Code de la communaauté
 ```js
+var summation = function (num) {
+  return num * (num+1) / 2;
+}
 ```
 
 ## Docs
