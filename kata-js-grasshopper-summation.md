@@ -56,5 +56,5 @@ var summation = function (num) {
 
 ''' Or some other text '''
 
-3) Other Idea 3
-4) Other Idea 4 
+5) Other Idea 3
+6) Other Idea 4 
