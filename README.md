@@ -27,6 +27,7 @@
   * [kata-js-fibonacci.md](kata-js-fibonacci.md) `for`
   * [kata-js-growth-of-population.md](kata-js-growth-of-population.md) `for`
   * [kata-js-calculating-with-functions.md](kata-js-calculating-with-functions.md) `for`
+  * [kata-js-grasshopper-summation.md](kata-js-grasshopper-summation.md) `for`
 * STRING
   * [kata-js-binary-addition.md](kata-js-binary-addition.md) `toString(2)`
   * [kata-js-who-likes-it.md](kata-js-who-likes-it.md) `eval`
