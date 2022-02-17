@@ -32,3 +32,15 @@ var summation = function (num) {
 ```
 
 ## Docs
+1. Idea 1
+2. Idea 2
+
+''' Some txt '''
+
+3. Idea 3
+4. Idea 4
+
+''' Or some other text '''
+
+3. Other Idea 3
+4. Other Idea 4 
