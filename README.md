@@ -13,7 +13,7 @@
   * [kata-js-count-positives-sum-negatives.md](kata-js-count-positives-sum-negatives.md) `[Array] filter`, `[Array] reduce`, `[Array] concat`
   * [kata-js-directions-reduction.md](kata-js-directions-reduction.md) `=>`, `[Array] reduce push/pop`
   * [kata-js-string-ends-with.md](kata-js-string-ends-with.md) `[Array] slice`, `[String] endsWith`
-  * [kata-js-highest-scoring-word.md](kata-js-highest-scoring-word.md) `[String] split`, `[Array] reduce`, `[String] charAt`
+  * [kata-js-highest-scoring-word.md](kata-js-highest-scoring-word.md) `[String] split`, `[Array] reduce`, `[String] charCodeAt`
 * REGEX
   * [kata-js-regex-replace-vowels.md](kata-js-regex-replace-vowels.md) `[String] replace`
   * [kata-js-jaden-casing-strings.md](kata-js-jaden-casing-strings.md) `[String] replace`, `[String] split`, `[Array] join`, `[Array] map`
