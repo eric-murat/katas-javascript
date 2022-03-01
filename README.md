@@ -20,6 +20,7 @@
   * [kata-js-vowel-count.md](kata-js-vowel-count.md) `[String] match`, `null`
   * [kata-js-break-camelcase.md](kata-js-break-camelcase.md) `[String] replace`
   * [kata-js-regex-validate-PIN-code.md](kata-js-regex-validate-PIN-code.md) `test`
+  * [kata-js-DNA-to-RNA-conversion.md](kata-js-DNA-to-RNA-conversion.md) `[String] replace`
 * MATH
   * [kata-js-find-next-perfect-square.md](kata-js-find-next-perfect-square.md) `sqrt`, `exp`, `pow`, `isInteger`
   * [kata-js-basic-mathematical-operations.md](kata-js-basic-mathematical-operations.md) `switch`, `eval`
