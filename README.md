@@ -39,6 +39,7 @@
 * NUMBER
   * [kata-js-sum-of-the-nth-terms.md](kata-js-sum-of-the-nth-terms.md) `[Number] toFixed`
   * [kata-js-square-number.md](kata-js-square-number.md) `[Number] isInteger`, `[Math] sqrt`
+  * [kata-js-string-to-number.md](kata-js-string-to-number.md) `[Number] isInteger`, `[Math] sqrt`
   
 
   
