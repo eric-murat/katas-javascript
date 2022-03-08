@@ -32,4 +32,4 @@ var number = function(busStops){
 ```
 
 ## Docs
-- Array reduce :
+- Array reduce : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
