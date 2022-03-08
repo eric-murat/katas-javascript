@@ -15,6 +15,7 @@
   * [kata-js-string-ends-with.md](kata-js-string-ends-with.md) `[Array] slice`, `[String] endsWith`
   * [kata-js-highest-scoring-word.md](kata-js-highest-scoring-word.md) `[String] split`, `[Array] reduce`, `[String] charCodeAt`
   * [kata-js-are-they-the-same.md](kata-js-are-they-the-same.md) `[Array] sort`, `[Array] map`, `[Array] every`
+  * [kata-js-number-of-people-in-bus.md](kata-js-number-of-people-in-bus.md) `[Array] reduce`
 * REGEX
   * [kata-js-regex-replace-vowels.md](kata-js-regex-replace-vowels.md) `[String] replace`
   * [kata-js-jaden-casing-strings.md](kata-js-jaden-casing-strings.md) `[String] replace`, `[String] split`, `[Array] join`, `[Array] map`
