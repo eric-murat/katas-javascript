@@ -26,6 +26,7 @@
 * MATH
   * [kata-js-find-next-perfect-square.md](kata-js-find-next-perfect-square.md) `sqrt`, `exp`, `pow`, `isInteger`
   * [kata-js-basic-mathematical-operations.md](kata-js-basic-mathematical-operations.md) `switch`, `eval`
+  * [kata-js-is-this-triangle.md](kata-js-is-this-triangle.md) `>`
 * FUNCTION
   * [kata-js-function-hello-world.md](kata-js-function-hello-world.md) `function`
   * [kata-js-fibonacci.md](kata-js-fibonacci.md) `for`
