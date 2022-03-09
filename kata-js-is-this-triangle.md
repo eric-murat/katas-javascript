@@ -5,7 +5,7 @@ Implement a function that accepts 3 integer values a, b, c. The function should 
 
 (In this case, all triangles must have surface greater than 0 to be accepted).
 
-✒️ FUNDAMENTALS MATHEMATICS ALGORITHMS NUMBERS UTILITIES
+✒️ FUNDAMENTALS, MATHEMATICS, ALGORITHMS, NUMBERS, UTILITIES
 
 ## Mon code
 ```js
