@@ -11,6 +11,9 @@ function isTriangle(a,b,c) {
 
 ## Code de la communauté
 ```js
+function isTriangle(a,b,c) {
+   return a+b>c&&a+c>b&&b+c>a
+}
 ```
 
 ## Docs
