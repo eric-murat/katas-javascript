@@ -49,6 +49,12 @@ function diamond(n){
 
 ## Code de la communauté
 ```js
+var diamond = n => {
+  if(isNaN(n) || n < 1 || !(n % 2)) return null;
+  var line = i => Array.apply(0, Array((n - i) / 2 + 1)).join(' ') + Array.apply(0, Array(i + 1)).join('*'),
+      top = Array.apply(0, Array(Math.floor(n / 2))).map((v, i) => line(i * 2 + 1));
+  return top.join('\n') + '\n' + line(n) + '\n' + top.slice().reverse().join('\n') + '\n';
+};
 ```
 
 ## Docs
