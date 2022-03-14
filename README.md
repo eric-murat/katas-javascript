@@ -16,6 +16,7 @@
   * [kata-js-highest-scoring-word.md](kata-js-highest-scoring-word.md) `[String] split`, `[Array] reduce`, `[String] charCodeAt`
   * [kata-js-are-they-the-same.md](kata-js-are-they-the-same.md) `[Array] sort`, `[Array] map`, `[Array] every`
   * [kata-js-number-of-people-in-bus.md](kata-js-number-of-people-in-bus.md) `[Array] reduce`
+  * [kata-js-longest-palyndrom.md](kata-js-longest-palyndrom.md) `[Array] slice`
 * REGEX
   * [kata-js-regex-replace-vowels.md](kata-js-regex-replace-vowels.md) `[String] replace`
   * [kata-js-jaden-casing-strings.md](kata-js-jaden-casing-strings.md) `[String] replace`, `[String] split`, `[Array] join`, `[Array] map`
@@ -39,7 +40,6 @@
   * [kata-js-binary-addition.md](kata-js-binary-addition.md) `toString(2)`
   * [kata-js-who-likes-it.md](kata-js-who-likes-it.md) `eval`
   * [kata-js-string-repeat.md](kata-js-string-repeat.md) `[String] repeat`
-  * [kata-js-longest-palyndrom.md](kata-js-longest-palyndrom.md) `[Array] slice`
 * NUMBER
   * [kata-js-sum-of-the-nth-terms.md](kata-js-sum-of-the-nth-terms.md) `[Number] toFixed`
   * [kata-js-square-number.md](kata-js-square-number.md) `[Number] isInteger`, `[Math] sqrt`
