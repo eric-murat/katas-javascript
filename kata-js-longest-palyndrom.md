@@ -50,6 +50,16 @@ longestPalindrome=function(s){
 
 ## Code de la communauté
 ```js
+var longestPalindrome=function(s){
+  if (!s) return 0;
+  for (let c = s.length; c > 0; c--) {
+    for (let i = 0; i <= s.length - c; i++) {
+      var check = s.substr(i, c);
+      if (check === check.split("").reverse().join("")) return c;
+    }
+  }
+}
 ```
 
 ## Docs
+- Array slice : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
