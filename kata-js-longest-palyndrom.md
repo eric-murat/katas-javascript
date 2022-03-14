@@ -46,7 +46,8 @@ longestPalindrome=function(s){
     resFinal = Math.max(Math.max(res, resBis), resFinal);
   }
   return resFinal;
-}```
+}
+```
 
 ## Code de la communauté
 ```js
