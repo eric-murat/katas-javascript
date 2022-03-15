@@ -40,7 +40,7 @@
   * [kata-js-binary-addition.md](kata-js-binary-addition.md) `toString(2)`
   * [kata-js-who-likes-it.md](kata-js-who-likes-it.md) `eval`
   * [kata-js-string-repeat.md](kata-js-string-repeat.md) `[String] repeat`
-  * [kata-js-build-tower.md](kata-js-build-tower.md) `[String] repeat`
+  * [kata-js-build-tower.md](kata-js-build-tower.md) `[String] repeat`, `...`
 * NUMBER
   * [kata-js-sum-of-the-nth-terms.md](kata-js-sum-of-the-nth-terms.md) `[Number] toFixed`
   * [kata-js-square-number.md](kata-js-square-number.md) `[Number] isInteger`, `[Math] sqrt`
