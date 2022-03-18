@@ -17,6 +17,7 @@
   * [kata-js-are-they-the-same.md](kata-js-are-they-the-same.md) `[Array] sort`, `[Array] map`, `[Array] every`
   * [kata-js-number-of-people-in-bus.md](kata-js-number-of-people-in-bus.md) `[Array] reduce`
   * [kata-js-longest-palyndrom.md](kata-js-longest-palyndrom.md) `[Array] slice`
+  * [kata-js-smallest-integer-in-array.md](kata-js-smallest-integer-in-array.md) `[Array] sort`
 * REGEX
   * [kata-js-regex-replace-vowels.md](kata-js-regex-replace-vowels.md) `[String] replace`
   * [kata-js-jaden-casing-strings.md](kata-js-jaden-casing-strings.md) `[String] replace`, `[String] split`, `[Array] join`, `[Array] map`
