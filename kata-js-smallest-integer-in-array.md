@@ -13,7 +13,11 @@ class SmallestIntegerFinder {
 
 ## Code de la communauté
 ```js
-
+class SmallestIntegerFinder {
+  findSmallestInt(args) {
+    return Math.min(...args)
+  }
+}
 ```
 
 ## Docs
