@@ -18,6 +18,7 @@
   * [kata-js-number-of-people-in-bus.md](kata-js-number-of-people-in-bus.md) `[Array] reduce`
   * [kata-js-longest-palyndrom.md](kata-js-longest-palyndrom.md) `[Array] slice`
   * [kata-js-smallest-integer-in-array.md](kata-js-smallest-integer-in-array.md) `[Array] sort`
+  * [kata-js-sum-of-numbers.md](kata-js-sum-of-numbers.md) `[Array] sort`, `[Array] reduce`
 * REGEX
   * [kata-js-regex-replace-vowels.md](kata-js-regex-replace-vowels.md) `[String] replace`
   * [kata-js-jaden-casing-strings.md](kata-js-jaden-casing-strings.md) `[String] replace`, `[String] split`, `[Array] join`, `[Array] map`
