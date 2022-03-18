@@ -4,7 +4,11 @@ Kata JS : Smallest integer in array :
 
 ## Mon code
 ```js
-
+class SmallestIntegerFinder {
+  findSmallestInt(args) {
+    return args.sort((a,b)=>a-b)[0];    
+  }
+}
 ```
 
 ## Code de la communauté
