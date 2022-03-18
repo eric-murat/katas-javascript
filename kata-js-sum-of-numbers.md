@@ -5,7 +5,12 @@ Kata JS : Sum of Numbers
 ## Mon code
 ```js
 function getSum( a,b ) {
-   return [a,b].sort((a,b)=>a-b).reduce((a,b)=>a+b);
+  var tab = [a,b].sort((a,b)=>a-b);
+  var res = 0;
+  for (var i = tab[0]; i <= tab[1]; i++) {
+    res = res + i;
+  }
+  return res;
 }
 ```
 
