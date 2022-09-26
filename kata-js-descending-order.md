@@ -24,10 +24,8 @@ function descendingOrder(n){
 
 ## Code de la communauté
 ```js
-class SmallestIntegerFinder {
-  findSmallestInt(args) {
-    return Math.min(...args)
-  }
+function descendingOrder(n){
+  return parseInt(String(n).split('').sort().reverse().join(''))
 }
 ```
 
