@@ -19,7 +19,7 @@
   * [kata-js-longest-palyndrom.md](kata-js-longest-palyndrom.md) `[Array] slice`
   * [kata-js-smallest-integer-in-array.md](kata-js-smallest-integer-in-array.md) `[Array] sort`
   * [kata-js-sum-of-numbers.md](kata-js-sum-of-numbers.md) `[Array] sort`, `[Array] reduce`
-  * [kata-js-descending-order.md](kata-descending-order.md) `[Array] sort`, `[Array] join`, `[String] split`
+  * [kata-js-descending-order.md](kata-js-descending-order.md) `[Array] sort`, `[Array] join`, `[String] split`
 * REGEX
   * [kata-js-regex-replace-vowels.md](kata-js-regex-replace-vowels.md) `[String] replace`
   * [kata-js-jaden-casing-strings.md](kata-js-jaden-casing-strings.md) `[String] replace`, `[String] split`, `[Array] join`, `[Array] map`
