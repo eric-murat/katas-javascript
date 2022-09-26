@@ -13,10 +13,12 @@ Input: 123456789 Output: 987654321
 
 ## Mon code
 ```js
-class SmallestIntegerFinder {
-  findSmallestInt(args) {
-    return args.sort((a,b)=>a-b)[0];    
-  }
+function descendingOrder(n){
+  var chars = (''+n).split('');
+  chars.sort(function(a, b) {
+    return b - a;
+  });
+  return parseInt(chars.join(''));
 }
 ```
 
