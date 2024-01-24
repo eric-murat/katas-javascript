@@ -1,3 +1,8 @@
+Kata JS : ROT13 https://www.codewars.com/kata/52223df9e8f98c7aa7000062
+
+✒️ FUNDAMENTALS, STRINGS, BASIC LANGUAGE FEATURES
+
+## Mon code
 ```js
 function rot13(str) {
   let result = "";
@@ -14,5 +19,12 @@ function rot13(str) {
     result = result + String.fromCharCode(charCode);
   }
   return result;
-}
 ```
+## Code de la communauté
+```js
+```
+
+## Docs
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt
+- Table ASCII : https://www.techonthenet.com/ascii/chart.php
